@@ -1,0 +1,38 @@
+body {
+    background: url(greyback.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.header {
+    text-transform: uppercase;
+    text-shadow: 3px 3px 6px black;
+	text-align: center;
+	padding: 30px 0 30px;
+  }
+
+.photo {
+	padding-top: 20px;
+	text-align: center;
+}
+
+.title {
+	text-transform: uppercase;
+	text-shadow: 1px 1px 2px black;
+	font-family: monospace;
+	padding: 20px 0 20px;
+	text-align: center;
+}
+
+
+.container {
+    border: 3px solid black;
+    box-shadow: 10px 5px 5px black;
+}
+.date {
+    font-family: monospace;
+	padding-top: 10px;
+	text-align: right;
+}
+footer{
+	padding-top: 20px;
+	text-align: center;
+}
